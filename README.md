@@ -25,10 +25,10 @@ With its Neumorphic UI design, customizable themes, and powerful playback featur
 ### Main Screens
 
 <p align="center">
-  <img src="screenShots/folder.webp" width="22%" alt="Home Screen" />
-  <img src="screenShots/radio.webp" width="22%" alt="Player Screen" />
-  <img src="screenShots/player-song.webp" width="22%" alt="Folders Screen" />
-  <img src="screenShots/player-radio.webp" width="22%" alt="Settings Screen" />
+  <img src="screenShots/folder.webp" width="40%" alt="Home Screen" />
+  <img src="screenShots/radio.webp" width="40%" alt="Player Screen" />
+  <img src="screenShots/player-song.webp" width="40%" alt="Folders Screen" />
+  <img src="screenShots/player-radio.webp" width="40%" alt="Settings Screen" />
 </p>
 
 ### Additional Screens
