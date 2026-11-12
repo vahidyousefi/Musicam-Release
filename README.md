@@ -105,23 +105,6 @@ Download Musicam from your favorite Android app store:
   </a>
 </p>
 
-Get the latest version of Musicam:
-
-[**Download Musicam APK**](#)
-
-<!-- Replace # with your actual GitHub Releases link -->
-
-## 📋 Requirements
-
-- Android device
-- Android version compatible with the released APK
-
-## 👨‍💻 Developer
-
-Developed with ❤️ by the Musicam team.
-
----
-
 <p align="center">
 
 **Musicam – Your Music, Your Experience.** 🎶
