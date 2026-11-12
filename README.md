@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon-musicam.png" width="140" alt="Musicam Logo" />
+  <img src="assets/icon.webp" width="140" alt="Musicam Logo" />
 </p>
 
 <h1 align="center">Musicam</h1>
