@@ -1,7 +1,14 @@
-# 🎵 Musicam
+<p align="center">
+  <img src="assets/icon-musicam.png" width="140" alt="Musicam Logo" />
+</p>
 
-**Musicam** is a modern Android music player designed to provide a beautiful, customizable, and enjoyable music listening experience.
+<h1 align="center">Musicam</h1>
 
+<p align="center">
+  A Modern Neumorphic Android Music Player
+</p>
+
+Designed to provide a beautiful, customizable, and enjoyable music listening experience.
 With its Neumorphic UI design, customizable themes, and powerful playback features, Musicam makes listening to your favorite music more enjoyable.
 
 <p align="center">
