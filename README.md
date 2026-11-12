@@ -34,8 +34,8 @@ With its Neumorphic UI design, customizable themes, and powerful playback featur
 ### Additional Screens
 
 <p align="center">
-  <img src="screenShots/light-theme.webp" width="45%" alt="Radio Screen" />
-  <img src="screenShots/dark-theme.webp" width="45%" alt="Music Widget" />
+  <img src="screenShots/light-theme.webp" width="100%" alt="Radio Screen" />
+  <img src="screenShots/dark-theme.webp" width="100%" alt="Music Widget" />
 </p>
 
 ## ✨ Features
