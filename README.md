@@ -5,7 +5,7 @@
 <h1 align="center">Musicam</h1>
 
 <p align="center">
-  A Modern Neumorphic Android Music Player
+A Modern Neumorphic Android Music Player
 </p>
 
 Designed to provide a beautiful, customizable, and enjoyable music listening experience.
