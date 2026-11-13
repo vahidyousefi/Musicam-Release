@@ -27,6 +27,8 @@ With its Neumorphic UI design, customizable themes, and powerful playback featur
   </a>
 </p>
 
+[**Direct Download Musicam**](../../releases/latest)
+
 ## 📱 Screenshots
 
 ### Main Screens
@@ -84,29 +86,3 @@ Musicam is built using the **MVVM (Model-View-ViewModel)** architectural pattern
 - Koin
 - Kotlin Coroutines
 - Material Design
-
-## 📥 Download
-
-Download Musicam from your favorite Android app store:
-
-<p align="center">
-  <a href="http://cafebazaar.ir/app/ir.vy.musicam">
-    <img
-      src="https://img.shields.io/badge/Download-Cafe_Bazaar-orange?style=for-the-badge&logo=android&logoColor=white"
-      alt="Download from Cafe Bazaar"
-    />
-  </a>
-
-  <a href="https://myket.ir/app/ir.vy.musicam">
-    <img
-      src="https://img.shields.io/badge/Download-Myket-green?style=for-the-badge&logo=android&logoColor=white"
-      alt="Download from Myket"
-    />
-  </a>
-</p>
-
-<p align="center">
-
-[**Direct Download Musicam**](../../releases/latest)
-
-</p>
