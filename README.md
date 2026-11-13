@@ -107,6 +107,6 @@ Download Musicam from your favorite Android app store:
 
 <p align="center">
 
-**Musicam – Your Music, Your Experience.** 🎶
+[**Direct Download Musicam**](../../releases/latest)
 
 </p>
