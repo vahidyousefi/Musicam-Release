@@ -86,3 +86,19 @@ Musicam is built using the **MVVM (Model-View-ViewModel)** architectural pattern
 - Koin
 - Kotlin Coroutines
 - Material Design
+
+## ☕ Support My Work
+
+If you enjoy my projects and find them useful, consider buying me a coffee!
+
+Your support motivates me to continue developing, improving, and creating new projects. Every contribution is greatly appreciated. ❤️
+
+<p align="center">
+  <a href="https://www.coffeete.ir/vahidyousefi">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<p align="center">
+  Thank you for your support! ❤️
+</p>
